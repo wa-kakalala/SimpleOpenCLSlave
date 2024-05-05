@@ -1,0 +1,69 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/axilite_slave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axilite_slave
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/main_csr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main_csr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/Butterfly.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Butterfly
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/DelayBuffer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DelayBuffer
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/Multiply.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Multiply
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/SdfUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SdfUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/SdfUnit2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SdfUnit2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/Twiddle.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Twiddle
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/TwiddleConvert4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TwiddleConvert4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/TwiddleConvert8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TwiddleConvert8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/fft128.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fft128
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/fft_read_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fft_read_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/ip/ram128/sim/ram128.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram128
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/ram_128.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram_128
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/fft_write_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fft_write_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/transiter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module transiter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/recevier.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module recevier
+INFO: [VRFC 10-2458] undeclared symbol config_data, assumed default net type wire [C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/recevier.v:56]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_axi_traffic_gen_0_0/sim/system_axi_traffic_gen_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_axi_traffic_gen_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_axilite_slave_0_0/sim/system_axilite_slave_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_axilite_slave_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_clk_wiz_0/system_clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_clk_wiz_0/system_clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_main_csr_0_0/sim/system_main_csr_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_main_csr_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_fft128_0_0/sim/system_fft128_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_fft128_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_fft_read_ram_0_0/sim/system_fft_read_ram_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_fft_read_ram_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_ram_128_0_0/sim/system_ram_128_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_ram_128_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_ram_128_1_0/sim/system_ram_128_1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_ram_128_1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_fft_write_ram_0_0/sim/system_fft_write_ram_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_fft_write_ram_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_transiter_0_0/sim/system_transiter_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_transiter_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_recevier_0_0/sim/system_recevier_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_recevier_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.ip_user_files/bd/system/sim/system.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fft128_imp_1SLPDR
+INFO: [VRFC 10-311] analyzing module main_controller_imp_QT1XA0
+INFO: [VRFC 10-311] analyzing module system
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/new/SimpleOpenCLSlave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SimpleOpenCLSlave
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sources_1/bd/system/hdl/system_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module system_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/fpga/SimpleOpenCLSlave/SimpleOpenCLSlave.srcs/sim_1/new/tb_SimpleOpenCLSlave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_SimpleOpenCLSlave

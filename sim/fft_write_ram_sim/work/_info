@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim
+T_opt
+!s110 1714376798
+VQT2=U@;V3@8N5[a^G?AAo3
+04 20 4 work tb_fft_write_ram_top fast 0
+=4-581122d54899-662f505e-23a-28fc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.6c;65
+vfft_write_ram
+!s110 1714376793
+!i10b 1
+!s100 <QOmBA[Q;fi9^geR@NN=41
+IQa9gM[a7=M68hlzSlA2We0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim
+w1714376774
+8C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/fft_write_ram_sim.v
+FC:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/fft_write_ram_sim.v
+L0 1
+Z3 OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1714376793.000000
+!s107 C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/fft_write_ram_sim.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/fft_write_ram_sim.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+4tb_fft_write_ram
+Z4 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1714376088
+!i10b 1
+!s100 AhQR?nzAhe83>S5R5Lho41
+I7[VCM2Wb>;3>1fM<CKkAZ3
+R1
+!s105 tb_fft_write_ram_sv_unit
+S1
+R2
+w1714375944
+8C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/tb_fft_write_ram.sv
+FC:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/tb_fft_write_ram.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1714376088.000000
+!s107 C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/tb_fft_write_ram.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/tb_fft_write_ram.sv|
+!i113 0
+Z5 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_fft_write_ram_top
+R4
+!s110 1714376261
+!i10b 1
+!s100 Uh_Ml`VKW2a^J8M2Te1TX1
+IQ6>bUbl@Z6Y9Zb[JNAP?U3
+R1
+!s105 tb_fft_write_ram_top_sv_unit
+S1
+R2
+w1714376247
+8C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/tb_fft_write_ram_top.sv
+FC:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/tb_fft_write_ram_top.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1714376261.000000
+!s107 C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/tb_fft_write_ram_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/tb_fft_write_ram_top.sv|
+!i113 0
+R5
+R0

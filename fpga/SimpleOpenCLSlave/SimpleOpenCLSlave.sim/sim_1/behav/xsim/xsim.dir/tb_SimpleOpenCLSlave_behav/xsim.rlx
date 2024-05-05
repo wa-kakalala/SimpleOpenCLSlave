@@ -1,0 +1,12 @@
+
+{ 
+    crc :  7620290190675155961  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 1a0e847a16074ed584d3d90cc676fe9d --incr --debug typical --relax --mt 2 -L xil_defaultlib -L blk_mem_gen_v8_4_2 -L dist_mem_gen_v8_0_12 -L lib_bmg_v1_0_11 -L lib_cdc_v1_0_2 -L axi_traffic_gen_v3_0_4 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_SimpleOpenCLSlave_behav xil_defaultlib.tb_SimpleOpenCLSlave xil_defaultlib.glbl" , 
+    buildDate : "Dec  7 2018" , 
+    buildTime : "00:33:28" , 
+    linkCmd : "E:\\software\\Vivado\\2018.3\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/tb_SimpleOpenCLSlave_behav/xsimk.exe\"   \"xsim.dir/tb_SimpleOpenCLSlave_behav/obj/xsim_0.win64.obj\" \"xsim.dir/tb_SimpleOpenCLSlave_behav/obj/xsim_1.win64.obj\" -L\"E:\\software\\Vivado\\2018.3\\lib\\win64.o\" -lrdi_simulator_kernel  -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

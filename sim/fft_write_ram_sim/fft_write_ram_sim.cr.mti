@@ -1,0 +1,22 @@
+C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/fft_write_ram_sim.v {1 {vlog -work work -vopt -stats=none C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/fft_write_ram_sim.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module fft_write_ram
+
+Top level modules:
+	fft_write_ram
+
+} {} {}} C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/tb_fft_write_ram.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/tb_fft_write_ram.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling program tb_fft_write_ram
+
+Top level modules:
+	tb_fft_write_ram
+
+} {} {}} C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/tb_fft_write_ram_top.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_write_ram_sim/tb_fft_write_ram_top.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_fft_write_ram_top
+
+Top level modules:
+	tb_fft_write_ram_top
+
+} {} {}}

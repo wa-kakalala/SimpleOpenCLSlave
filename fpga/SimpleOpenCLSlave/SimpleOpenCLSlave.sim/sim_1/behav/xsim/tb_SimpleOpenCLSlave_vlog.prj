@@ -1,0 +1,41 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../SimpleOpenCLSlave.srcs/sources_1/new" --include "../../../../SimpleOpenCLSlave.srcs/sources_1/bd/system/ipshared/a0fc/hdl/src/verilog" --include "../../../../SimpleOpenCLSlave.srcs/sources_1/bd/system/ipshared/85a3" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/axilite_slave.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/main_csr.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/Butterfly.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/DelayBuffer.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/Multiply.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/SdfUnit.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/SdfUnit2.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/Twiddle.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/TwiddleConvert4.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/TwiddleConvert8.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/fft128.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/fft_read_ram.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/ip/ram128/sim/ram128.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/ram_128.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/fft_write_ram.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/transiter.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/recevier.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_axi_traffic_gen_0_0/sim/system_axi_traffic_gen_0_0.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_axilite_slave_0_0/sim/system_axilite_slave_0_0.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_clk_wiz_0/system_clk_wiz_0_clk_wiz.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_clk_wiz_0/system_clk_wiz_0.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_main_csr_0_0/sim/system_main_csr_0_0.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_fft128_0_0/sim/system_fft128_0_0.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_fft_read_ram_0_0/sim/system_fft_read_ram_0_0.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_ram_128_0_0/sim/system_ram_128_0_0.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_ram_128_1_0/sim/system_ram_128_1_0.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_fft_write_ram_0_0/sim/system_fft_write_ram_0_0.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_transiter_0_0/sim/system_transiter_0_0.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/ip/system_recevier_0_0/sim/system_recevier_0_0.v" \
+"../../../../SimpleOpenCLSlave.ip_user_files/bd/system/sim/system.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/new/SimpleOpenCLSlave.v" \
+"../../../../SimpleOpenCLSlave.srcs/sources_1/bd/system/hdl/system_wrapper.v" \
+"../../../../SimpleOpenCLSlave.srcs/sim_1/new/tb_SimpleOpenCLSlave.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

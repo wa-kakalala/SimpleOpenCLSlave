@@ -1,0 +1,112 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/MultiPortCache/sim/multi_sram_sim
+T_opt
+!s110 1714373163
+Ve<kf@[F@5W_GbDZOcS1_81
+04 19 4 work tb_fft_read_ram_top fast 0
+=5-581122d54899-662f422b-f4-846c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.6c;65
+vdual_sram
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1714373153
+!i10b 1
+!s100 J<>>K@AB?79k@0^;JcFl<0
+I6lgibaz;ofE[9f6lCHROO0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 dual_sram_sv_unit
+S1
+Z3 dC:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim
+w1714373148
+8C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/dual_sram.sv
+FC:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/dual_sram.sv
+L0 1
+Z4 OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1714373153.000000
+!s107 C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/dual_sram.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/dual_sram.sv|
+!i113 0
+Z5 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vfft_read_ram
+Z6 !s110 1714372741
+!i10b 1
+!s100 5m2mCR7n:V:1<1Y_L7K;21
+IPfLHToHZIMdFQ2e78715b3
+R2
+R3
+w1714371053
+8C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/fft_read_ram.v
+FC:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/fft_read_ram.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z7 !s108 1714372741.000000
+!s107 C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/fft_read_ram.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/fft_read_ram.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+4tb_fft_read_ram
+R1
+R6
+!i10b 1
+!s100 F1l3>D>YC?cVT[KABznzm1
+I>i0h3cL<=V6jHL@SCdlE@2
+R2
+!s105 tb_fft_read_ram_sv_unit
+S1
+R3
+w1714372439
+8C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/tb_fft_read_ram.sv
+FC:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/tb_fft_read_ram.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/tb_fft_read_ram.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/tb_fft_read_ram.sv|
+!i113 0
+R5
+R0
+vtb_fft_read_ram_top
+R1
+!s110 1714373096
+!i10b 1
+!s100 ;MMYHfUSKm=S`k5[z;cgo3
+I]SI[Va;ifGCOHkg`<KV:l1
+R2
+!s105 tb_fft_read_ram_top_sv_unit
+S1
+R3
+w1714373087
+8C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/tb_fft_read_ram_top.sv
+FC:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/tb_fft_read_ram_top.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1714373096.000000
+!s107 C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/tb_fft_read_ram_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/wkk/Desktop/OpenCL/SimpleOpenCLSlave/sim/fft_read_ram_sim/tb_fft_read_ram_top.sv|
+!i113 0
+R5
+R0
